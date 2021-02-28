@@ -1,0 +1,28 @@
+2021-02-21 18:53:38,489 [INFO] Activator:178 - 
+
+
+2021-02-21 18:53:38,493 [INFO] Activator:179 - !SESSION log4j initialized
+2021-02-21 18:54:40,595 [INFO] Activator:178 - 
+
+
+2021-02-21 18:54:40,600 [INFO] Activator:179 - !SESSION log4j initialized
+2021-02-21 18:55:01,963 [INFO] RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://sw-center.st.com:80: Socket Closed
+2021-02-21 18:55:01,966 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-02-21 18:55:24,549 [INFO] Activator:178 - 
+
+
+2021-02-21 18:55:24,554 [INFO] Activator:179 - !SESSION log4j initialized
+2021-02-21 18:55:37,283 [INFO] RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://sw-center.st.com:80: Socket Closed
+2021-02-21 18:55:37,286 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-02-28 12:41:34,081 [INFO] Activator:178 - 
+
+
+2021-02-28 12:41:34,087 [INFO] Activator:179 - !SESSION log4j initialized
+2021-02-28 12:43:13,386 [INFO] Activator:178 - 
+
+
+2021-02-28 12:43:13,391 [INFO] Activator:179 - !SESSION log4j initialized
+2021-02-28 12:51:38,439 [INFO] Activator:178 - 
+
+
+2021-02-28 12:51:38,446 [INFO] Activator:179 - !SESSION log4j initialized
